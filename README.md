@@ -3,7 +3,7 @@
 
 - 🌱 Estudante de ADS, cursando o p1.
 - 😄 ela/dela
-- ⚡ pretendendo seguir na área de Data Engineer (Engenheiro de Dados)
+- ⚡ pretendendo seguir na área de Front End
 
 <div align="center">
 
