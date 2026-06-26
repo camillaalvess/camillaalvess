@@ -1,14 +1,14 @@
 ## Olá, tudo bem? Eu sou Camilla👋
 
 
-- 🌱 Estudante de ADS, cursando o p1.
+- 🌱 Estudante de ADS, cursando o p2.
 - 😄 ela/dela
-- ⚡ pretendendo seguir na área de Front End
+- ⚡ Front-end Developer
 
 <div align="center">
 
 <h2>Camilla Vitória</h2>
-<p>Estudante de Análise e Desenvolvimento de Sistemas • Tech Girl • Future Data Engineer</p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas • Tech Girl • Desenvolvedora Web</p>
 
 </div>
 
