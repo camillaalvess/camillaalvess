@@ -1,16 +1,8 @@
-<div align="center">
-
-# CAMILLA VITÓRIA
+# Camilla Vitória
 
 ### Desenvolvedora Front-End
 
-**JavaScript • TypeScript • UI/UX • Desenvolvimento Web**
-
-</div>
-
----
-
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em Desenvolvimento Web e criação de interfaces modernas, responsivas e funcionais.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Web e criação de interfaces modernas, responsivas e funcionais.
 
 Atualmente, estou aprofundando meus conhecimentos em **JavaScript e TypeScript**, enquanto amplio minha visão sobre o desenvolvimento de aplicações por meio de **Node.js, APIs REST e bancos de dados**.
 
@@ -18,11 +10,11 @@ Atualmente, estou aprofundando meus conhecimentos em **JavaScript e TypeScript**
 
 ## Sobre mim
 
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Foco em Desenvolvimento Front-End
-- Interesse em UI/UX e desenvolvimento de interfaces
-- Construindo projetos para aprimorar minhas habilidades
-- Atualmente estudando TypeScript e desenvolvimento de aplicações web
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Foco em Desenvolvimento Front-End
+- 🎨 Interesse em UI/UX e desenvolvimento de interfaces
+- 🚀 Construindo projetos para aprimorar minhas habilidades
+- 📚 Atualmente estudando TypeScript e desenvolvimento de aplicações web
 
 ---
 
@@ -59,22 +51,21 @@ Atualmente, estou aprofundando meus conhecimentos em **JavaScript e TypeScript**
 
 API REST desenvolvida para gerenciamento de projetos de portfólio.
 
-**Tecnologias**
+**Tecnologias:**
 
 `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `JWT`
 
-**Principais funcionalidades**
+**Principais funcionalidades:**
 
 - Autenticação e autorização
 - Access Token e Refresh Token
 - Controle de acesso por funções
 - CRUD de projetos
 - Paginação e filtros
-- Ordenação
 - Upload de imagens
 - Documentação com Swagger
 - Validação de dados
-- Middlewares para tratamento de erros
+- Middleware de tratamento de erros
 
 [Ver projeto →](https://github.com/camillaalvess/devportfolio-api)
 
